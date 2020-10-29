@@ -1,0 +1,6 @@
+site_name: mkdocs-material-2020
+theme:
+    name: 'material'
+nav:
+    - 'Home': 'index.md'
+    
